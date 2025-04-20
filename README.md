@@ -1,4 +1,4 @@
-![I am Faruk6535](https://github.com/Faruk6535/Faruk6535/blob/main/code.png)
+![I am Faruk6535](https://github.com/Faruk6536/Faruk6535/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Omor(Faruk)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
